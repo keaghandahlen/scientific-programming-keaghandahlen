@@ -1,4 +1,4 @@
-#### RENAME from mini_project.py to (your_project_short_name).py
+
 # File structure
 # 1. Commented paragraph describing mini-project ~ 100-200 words
 # 2. Module imports that are used in multiple functions
