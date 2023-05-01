@@ -13,12 +13,11 @@ def read_two_columns_text(filename):
     """
     try:
         data = np.loadtxt(filename)
-    return data = np.loadtxt(filename)
+        return data
     except OSError as error:
         print(f'{error}')
-    return data
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     test_file = 'volumes_energies.dat'
     test_data = read_two_columns_text(test_file)
-    priint(f'{test_data=}', shape={test_data.shape})
+    print(f'{test_data=}, shape={test_data.shape}')
