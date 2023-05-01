@@ -1,6 +1,7 @@
 
 # File structure
 # 1. Commented paragraph describing mini-project ~ 100-200 words
+#
 # 2. Module imports that are used in multiple functions
 # 3. Function definitions
 # 4. if __name__ == "__main__" block, which calls a primary function with a clear name 
