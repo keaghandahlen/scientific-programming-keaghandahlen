@@ -5,7 +5,7 @@ import numpy as np
 
 def read_two_columns_text(filename):
     """
-    Read in two colums of data from text file of arbitrary length
+    Read in two columns of data from text file of arbitrary length
     :param filename: str
         Name of the file to be read
         :return data: ndarray
